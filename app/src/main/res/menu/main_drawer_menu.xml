@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+    <item
+        android:id="@+id/nav_orders"
+        android:title="Orders"
+        android:icon="@drawable/ic_lnr_laptop_phone"/>
+
+
+
+
+    <item
+        android:id="@+id/nav_customers"
+        android:title="Customers"
+        android:icon="@drawable/ic_lnr_license"/>
+
+
+
+    <item
+        android:id="@+id/nav_riders"
+        android:title="Riders"
+        android:icon="@drawable/ic_lnr_link"/>
+
+
+
+    <item
+        android:id="@+id/nav_brands"
+        android:title="Brands"
+        android:icon="@drawable/ic_lnr_redo"/>
+
+    <item
+        android:id="@+id/nav_sales"
+        android:title="Sales"
+        android:icon="@drawable/ic_baseline_block_24"/>
+
+
+
+    <item
+        android:id="@+id/nav_deals"
+        android:title="Deals"
+        android:icon="@drawable/ic_lnr_rocket"/>
+
+</group>
+
+
+
+</menu>
