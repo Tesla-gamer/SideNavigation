@@ -3,11 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/abhi/AndroidStudioProjects/customNavigation/app/src/main/res/drawable/ic_bxs_slideshow.xml" value="0.269" />
+        <entry key="..\:/Users/abhi/AndroidStudioProjects/customNavigation/app/src/main/res/drawable/ic_users.xml" value="0.2655" />
+        <entry key="..\:/Users/abhi/AndroidStudioProjects/customNavigation/app/src/main/res/layout/activity_customers.xml" value="0.32447916666666665" />
         <entry key="..\:/Users/abhi/AndroidStudioProjects/customNavigation/app/src/main/res/layout/activity_drawer_base.xml" value="0.3625" />
         <entry key="..\:/Users/abhi/AndroidStudioProjects/customNavigation/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Users/abhi/AndroidStudioProjects/customNavigation/app/src/main/res/layout/activity_order.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/abhi/AndroidStudioProjects/customNavigation/app/src/main/res/layout/content_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/abhi/AndroidStudioProjects/customNavigation/app/src/main/res/layout/fragment_home.xml" value="0.32395833333333335" />
+        <entry key="..\:/Users/abhi/AndroidStudioProjects/customNavigation/app/src/main/res/layout/fragment_slide_show.xml" value="0.32395833333333335" />
+        <entry key="..\:/Users/abhi/AndroidStudioProjects/customNavigation/app/src/main/res/layout/fragment_users.xml" value="0.32395833333333335" />
         <entry key="..\:/Users/abhi/AndroidStudioProjects/customNavigation/app/src/main/res/layout/main_drawer_header.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/abhi/AndroidStudioProjects/customNavigation/app/src/main/res/menu/main_drawer_menu.xml" value="0.3625" />
+        <entry key="..\:/Users/abhi/AndroidStudioProjects/customNavigation/app/src/main/res/menu/menu.xml" value="0.32395833333333335" />
       </map>
     </option>
   </component>
